@@ -15,6 +15,7 @@ public class Project {
     System.out.println(name + " has a dog, and he's " + y + " years old!");
     // summing Meredith's and Dog's ages
     System.out.println(x + y);
+    System.out.println("Nice!");
 
  }
 }
