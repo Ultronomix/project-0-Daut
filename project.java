@@ -16,6 +16,7 @@ public class Project {
     // summing Meredith's and Dog's ages
     System.out.println(x + y);
     System.out.println("Nice!");
+    System.out.println("End");
 
  }
 }
